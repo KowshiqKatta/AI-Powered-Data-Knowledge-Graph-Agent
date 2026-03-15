@@ -1,0 +1,8 @@
+duckdb
+pandas
+neo4j
+langchain
+openai
+python-dotenv
+streamlit
+
