@@ -75,7 +75,7 @@ Then it automatically generates and executes SQL.
 
 ------
 
-⚡ What This System Can Do
+**⚡ What This System Can Do**
 
 ✔ Answer analytical questions using natural language <br>
 ✔ Generate SQL automatically <br>
