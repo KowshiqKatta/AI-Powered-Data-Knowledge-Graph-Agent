@@ -13,7 +13,7 @@ Instead of manually exploring datasets, writing SQL, and understanding schema re
 
 ------
 
-**🌍 The Problem This Project Solves**
+**🌍 The problem this project solves**
 
 Modern organizations operate with massive, complex data ecosystems.
 
@@ -57,7 +57,7 @@ As data ecosystems grow, answering simple questions becomes harder.
 
 ------
 
-**💡 The Core Idea Behind This Project**
+**💡 The core idea behind this project**
 
 This project explores a **new paradigm for data analytics**:
 
@@ -82,7 +82,7 @@ Then it automatically generates and executes SQL.
 
 ------
 
-**⚡ What This System Can Do**
+**⚡ What this system can do**
 
 ✔ Answer analytical questions using natural language <br>
 ✔ Generate SQL automatically <br>
@@ -133,7 +133,7 @@ This system combines **three key components**.
 
 ---
 
-# **🔍 How the System Works**
+# **🔍 How the system works**
 
 The workflow follows these steps:
 
@@ -200,7 +200,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-# **Run the System**
+# **Run the system**
 
 **Step 1: Generate sample data**
 ```
@@ -279,7 +279,7 @@ Extend the graph layer to visualize dataset lineage and pipeline dependencies.
 
 ---
 
-# **🎯 Why This Project Matters**
+# **🎯 Why this project matters**
 
 This project explores the **future of AI-assisted data analytics**.
 
@@ -290,14 +290,14 @@ Such systems have the potential to:
 2. reduce dependence on manual SQL writing <br> 
 3. democratize data access across organizations <br>
 
-## Who Can Benefit From This?
+## Who can benefit from this?
 
 This system can be useful for:
 
-• Data analysts exploring unfamiliar datasets <br>
-• Data engineers managing complex data models  <br>
-• Business users who want quick insights without writing SQL  <br>
-• AI researchers exploring agent-based data systems <br>
+       • Data analysts exploring unfamiliar datasets <br>
+       • Data engineers managing complex data models  <br>
+       • Business users who want quick insights without writing SQL  <br>
+       • AI researchers exploring agent-based data systems <br>
  
 ---
 
