@@ -5,6 +5,19 @@
 ![AI](https://img.shields.io/badge/AI-LLM%20Powered-purple)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
+## 📑 Table of Contents
+
+- [🌍 The Problem This Project Solves](#-the-problem-this-project-solves)
+- [💡 The Core Idea Behind This Project](#-the-core-idea-behind-this-project)
+- [⚡ What This System Can Do](#-what-this-system-can-do)
+- [🧠 Architecture](#-architecture)
+- [🔍 How the System Works](#-how-the-system-works)
+- [🖥 Example Questions](#-example-questions-you-can-ask)
+- [🧰 Tech Stack](#-tech-stack)
+- [🛠 Installation & Setup](#-installation--setup)
+- [⚙ Run the system](#-run-the-system)
+- [🚀 Future Improvements](#-future-improvements)
+
 # **AI-Powered Data Knowledge Graph Agent**
 
 An AI system that understands your data ecosystem and automatically generates SQL queries to answer analytical questions.
@@ -13,7 +26,7 @@ Instead of manually exploring datasets, writing SQL, and understanding schema re
 
 ------
 
-**🌍 The problem this project solves**
+# **🌍 The problem this project solves**
 
 Modern organizations operate with massive, complex data ecosystems.
 
@@ -57,7 +70,7 @@ As data ecosystems grow, answering simple questions becomes harder.
 
 ------
 
-**💡 The core idea behind this project**
+# **💡 The core idea behind this project**
 
 This project explores a **new paradigm for data analytics**:
 
@@ -82,7 +95,7 @@ Then it automatically generates and executes SQL.
 
 ------
 
-**⚡ What this system can do**
+# **⚡ What this system can do**
 
 ✔ Answer analytical questions using natural language <br>
 ✔ Generate SQL automatically <br>
@@ -175,7 +188,7 @@ The Streamlit interface displays the result.
 
 ---
 
-**🖥 Example Questions You Can Ask** <br>
+# **🖥 Example Questions** <br>
 Examples supported by the system:
 ```
 Which region generated the highest revenue?
