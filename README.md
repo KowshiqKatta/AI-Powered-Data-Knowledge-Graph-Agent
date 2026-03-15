@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
+![Database](https://img.shields.io/badge/Database-DuckDB-yellow)
+![Graph](https://img.shields.io/badge/Knowledge%20Graph-Neo4j-green)
+![AI](https://img.shields.io/badge/AI-LLM%20Powered-purple)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 # **AI-Powered Data Knowledge Graph Agent**
 
 An AI system that understands your data ecosystem and automatically generates SQL queries to answer analytical questions.
