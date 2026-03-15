@@ -294,10 +294,10 @@ Such systems have the potential to:
 
 This system can be useful for:
 
-       • Data analysts exploring unfamiliar datasets <br>
-       • Data engineers managing complex data models  <br>
-       • Business users who want quick insights without writing SQL  <br>
-       • AI researchers exploring agent-based data systems <br>
+       • Data analysts exploring unfamiliar datasets 
+       • Data engineers managing complex data models  
+       • Business users who want quick insights without writing SQL  
+       • AI researchers exploring agent-based data systems 
  
 ---
 
